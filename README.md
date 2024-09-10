@@ -2,7 +2,7 @@
 
 Metopia is a decentralized credential issuance and storage network. It is built using [Kwil](<https://docs.kwil.com>), a framework for building decentralized storage networks.
 
-![banner](./assets/logo.png)
+![banner](./assets/metopia_logo.png)
 
 ## Getting Started
 
