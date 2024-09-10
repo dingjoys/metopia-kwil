@@ -1,0 +1,39 @@
+**/release/
+**/.idea/
+.vscode/
+**/.DS_Store
+**/tmp/
+cmd/cmd
+.lck
+.data/
+.build/
+.task/
+*.pprof
+**/__debug_bin.exe
+**/__debug_bin*
+.DS_Store
+**/**/node_modules
+_ignore
+.local_env
+.goreleaser.yaml
+.env
+test/stress/stress
+**/debug.test*
+
+gen/
+# helm charts deps
+deployments/helm/*/charts/
+
+dist/*
+
+# kwild
+.testnet
+
+# IDE
+.run
+
+# go
+vendor/
+
+go.work
+go.work.sum
